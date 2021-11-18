@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Boys Day",
-    introTitle: 'According to Google, November 19 is the International Men's Day',
+    introTitle: 'According to Google, November 19 is the International Mens Day',
     btnIntro: 'Hihi',
     title: 'Chúc đang ngồi trước màn hình luôn đẹp trai, mạnh khỏe, hạnh phúc bên gia đình và học tập thật tốt nhá ^^ , đọc cái này vui không?',
     desc: 'P/S: 20-10 năm sau nhớ tổ chức rộn rã lên nhá ^^ ',
