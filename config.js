@@ -1,6 +1,7 @@
 const CONFIG = {
     titleWeb: "Boys Day",
-    introTitle: 'According to Google, November 19 is the International Mens Day',
+    introTitle: 'To all the boys of C6',
+    introDesc: `According to Google, November 19 is International Men's Day`,
     btnIntro: 'Hihi',
     title: 'Chúc đang ngồi trước màn hình luôn đẹp trai, mạnh khỏe, hạnh phúc bên gia đình và học tập thật tốt nhá ^^ , đọc cái này vui không?',
     desc: 'P/S: 20-10 năm sau nhớ tổ chức rộn rã lên nhá ^^ ',
@@ -13,4 +14,5 @@ const CONFIG = {
     messDesc: 'Chúc cậu một ngày zui zẻ nha',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://drive.google.com/file/d/1B5kUioyRPTCcG8yPssjxOOSdO6d5vCVV/view?usp=sharing' //link mess của các bạn. VD: https://m.me/nam.nodemy
+}
 }
