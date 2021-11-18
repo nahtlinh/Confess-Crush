@@ -41,7 +41,7 @@
 
 .swal2-title,
 .swal2-content {
-    color: azure !important;
+    color: #3399ff !important;
 }
 
 .swal2-popup {
@@ -53,13 +53,13 @@ header h2 {
     font-size: 80px;
     text-align: center;
     margin-bottom: 30px;
-    color: cyan;
+    color: #0080ff;
 }
 
 header h4 {
     font-family: 'Pacifico';
     text-align: center;
-    color: chartreuse;
+    color: #0080ff;
 }
 
 @media only screen and (max-width: 500px) {
