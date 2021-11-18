@@ -53,13 +53,13 @@ header h2 {
     font-size: 80px;
     text-align: center;
     margin-bottom: 30px;
-    color: #0080ff;
+    color: #0c465a;
 }
 
 header h4 {
     font-family: 'Pacifico';
     text-align: center;
-    color: #0080ff;
+    color:#0c465a;
 }
 
 @media only screen and (max-width: 500px) {
